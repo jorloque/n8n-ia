@@ -19,3 +19,11 @@ Desktop.ini
 .idea/
 *.swp
 *.swo
+
+#Word
+*.docx
+*.doc
+*.docm
+*.dotx
+*.dotm
+*.docb
